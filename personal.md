@@ -1,12 +1,12 @@
 # Personal Information
 
-Name: [Your Name]
-Email: [Your Email]
-Deployed Link: [Your Vercel Deployed Link]
+Name: Vibhav Pandey
+Email: vibhavpandeystudent@gmail.com
+Deployed Link: https://weather-task-rho.vercel.app/
 
 ## Project Overview
 
-I've created a Weather-Based Activity Suggester application with a focus on exceptional UI/UX design. The application features a dark-themed interface with animated weather backgrounds that change based on the current weather conditions.
+I've created a Weather-Based Activity Suggester application focusing on exceptional UI/UX design. The application features a dark-themed interface with animated weather backgrounds that change based on the current weather conditions.
 
 ## Features Implemented
 
@@ -29,7 +29,7 @@ I've created a Weather-Based Activity Suggester application with a focus on exce
 
 ## Design Decisions
 
-- **Dark Theme**: Chose a dark theme for better visibility of weather animations and to reduce eye strain
+- **Dark Theme**: Choose a dark theme for better visibility of weather animations and to reduce eye strain
 - **Animated Backgrounds**: Created dynamic backgrounds that reflect the current weather conditions
 - **Card-Based Layout**: Used a card-based layout for better organization and visual separation
 - **Responsive Grid**: Implemented a responsive grid layout that works well on all screen sizes
